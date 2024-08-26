@@ -1,0 +1,9 @@
+name: EndMc
+version: '${version}'
+main: fr.neocfr.endmc.EndMc
+api-version: '1.19'
+
+commands:
+  player:
+    usage: /<command> <player>
+    description: Show player information
